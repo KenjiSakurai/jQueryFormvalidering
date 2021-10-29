@@ -1,0 +1,66 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Index Site */
+
+body{
+    background-image: url("https://cdn.wallpapersafari.com/14/37/lWZ9xi.png");
+    border: solid 5px #0B1354;
+    height: 100vh;
+}
+ 
+header{
+    background-color: #165BAA;
+    border: solid 5px #0B1354;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 4vh;
+    height: 10vh;
+}
+
+table{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background-color: #F765A3;
+    width: 100%;
+}
+
+tr{
+    border: black solid 1px;
+    background-color:#FFA4B6;
+    height: 100%;
+}
+
+.arraygrid{
+    border: black solid 1px;
+    background-color:white;
+    padding: 30px;
+}
+
+img{
+    margin-left: 90%;
+    height: 10vh;
+    width: auto;
+    
+}
+
+
+fieldset{
+    margin-top: -5vh;
+    padding: 5vh;
+    background-color: #FFA4B6;
+
+}
+
+/* LoginComplete Site */
+
+#loginbody{
+    background-color: blueviolet;
+}
+#accsuc{
+    text-align: center;
+}
